@@ -1,5 +1,5 @@
 ### ULiège student
-- 🔭 I’m currently working on internship at GetYourWay
+- 🔭 I’m currently doing an internship at GetYourWay
 - 🔭 I’m currently working on a master thesis with Cisco
 
 <!--
