@@ -1,6 +1,4 @@
-### ULiège student
-- 🔭 I’m currently working on a master thesis with Cisco
-
+### Graduated Civil Engineer in Computer Science
 <!--
 **BriceBaguette/BriceBaguette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
